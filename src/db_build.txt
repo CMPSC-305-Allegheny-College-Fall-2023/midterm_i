@@ -1,0 +1,10 @@
+/* Build file: Place all database building code here. The instructor will be grading your work using this build file to recreate your database. To be able to create your database, please ensure that the building code is free of errors and that your data is present. */
+
+/* Name: Add Your Name Here*/
+
+/* Attribute names: In the order of columns going left to right of the provided dataset (a spreadsheet), the attribute names are the following; 
+gender, class, parental_level_of_education, lunch, test_preparation_course, math_score, reading_score, writing_score, Average_Scores */
+
+/* Database filename: Please name your school database by the following name: src/school_db.sqlite3"
+
+/* TODO*/
